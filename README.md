@@ -16,7 +16,7 @@
 
 <details>
   <summary>Github States</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmooreuk&show_icons=true&theme=transparent)
+<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmooreuk&show_icons=true&theme=transparent)</a>
 </details>
 <!---
 DavidMooreUK/DavidMooreUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
