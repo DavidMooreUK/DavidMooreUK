@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @DavidMooreUK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning AWS, GCP and deeper on Python
+- 📫 How to reach me at LinkedIn
+- ⚡ Fun fact: I play chess
+
+### Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,wordpress)](https://skillicons.dev)
+
+### Languages I Know
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+### What I am Learning
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=davidmooreuk&color=blue)
+
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmooreuk&show_icons=true&theme=transparent)
 
 <!---
 DavidMooreUK/DavidMooreUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
